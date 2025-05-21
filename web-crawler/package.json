@@ -1,0 +1,14 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Intelligent Web Crawler & Analyzer",
+  "scripts": {
+    "start": "streamlit run crawler.py",
+    "gulp": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-shell": "^0.6.3"
+  }
+}
